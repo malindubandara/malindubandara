@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **React, TailwindCSS, Nodejs, MongoDB**
 
 - 🌱 I’m currently learning **react.**
 
