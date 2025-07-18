@@ -10,12 +10,12 @@
 </div>
 
 
-<!--- snake -->
+<!--- snake 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
+-->
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -26,15 +26,11 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **React, React Native, Nodejs, MongoDB**
 
 - 🌱 I’m currently learning **react.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- ☁️ I've keen interest in Fullstack Development.
 
 - 📫 Feel free to reach me out **malindubandara48@gmail.com**
 
