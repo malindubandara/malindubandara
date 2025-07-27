@@ -26,9 +26,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, TailwindCSS, Nodejs, MongoDB**
+- 🔭 I’m currently working on **Wedding planning app called "Vivaha Plans"**
 
-- 🌱 I’m currently learning **react.**
+- 🌱 I’m currently learning **react.js**
 
 - ☁️ I've keen interest in Fullstack Development.
 
