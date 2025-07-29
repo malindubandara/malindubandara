@@ -32,7 +32,7 @@
 
 - ☁️ I've keen interest in Fullstack Development.
 
-- 📫 Feel free to reach me out **malindubandara48@gmail.com**
+- 📫 Feel free to reach out to me at **malindubandara48@gmail.com**
 
 <!--Intro end-->
 
